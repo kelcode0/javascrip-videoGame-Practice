@@ -1,1 +1,1 @@
-# javascrip-videoGame-Practice
+# javascript-videoGame-Practice
